@@ -1,0 +1,27 @@
+2020-07-17 17:48:48 [scrapy.core.scraper] ERROR: Error downloading <GET https://www.baidu.com/>
+Traceback (most recent call last):
+  File "E:\anconda\lib\site-packages\twisted\internet\defer.py", line 1418, in _inlineCallbacks
+    result = g.send(result)
+  File "E:\anconda\lib\site-packages\scrapy\core\downloader\middleware.py", line 37, in process_request
+    response = yield method(request=request, spider=spider)
+  File "E:\MyCode\hot_recommend\hot_rank\middlewares.py", line 16, in process_request
+    agent = random.choice(self.get_agentss)
+AttributeError: 'UserAgentMiddleware' object has no attribute 'get_agentss'
+2020-07-17 17:49:06 [scrapy.core.scraper] ERROR: Error downloading <GET https://s.weibo.com/top/summary?Refer=top_hot&topnav=1&wvr=6>
+Traceback (most recent call last):
+  File "E:\anconda\lib\site-packages\twisted\internet\defer.py", line 1418, in _inlineCallbacks
+    result = g.send(result)
+  File "E:\anconda\lib\site-packages\scrapy\core\downloader\middleware.py", line 37, in process_request
+    response = yield method(request=request, spider=spider)
+  File "E:\MyCode\hot_recommend\hot_rank\middlewares.py", line 16, in process_request
+    agent = random.choice(self.get_agentss)
+AttributeError: 'UserAgentMiddleware' object has no attribute 'get_agentss'
+2020-07-17 17:49:24 [scrapy.core.scraper] ERROR: Error downloading <GET https://weixin.sogou.com/>
+Traceback (most recent call last):
+  File "E:\anconda\lib\site-packages\twisted\internet\defer.py", line 1418, in _inlineCallbacks
+    result = g.send(result)
+  File "E:\anconda\lib\site-packages\scrapy\core\downloader\middleware.py", line 37, in process_request
+    response = yield method(request=request, spider=spider)
+  File "E:\MyCode\hot_recommend\hot_rank\middlewares.py", line 16, in process_request
+    agent = random.choice(self.get_agentss)
+AttributeError: 'UserAgentMiddleware' object has no attribute 'get_agentss'
