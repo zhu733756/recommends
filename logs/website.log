@@ -1,0 +1,529 @@
+2020-07-22 17:35:31 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是221637469
+2020-07-22 17:35:34 insert.py [line:47] INFO: 索引news_2020-07-22, 类别website, 成功0, 失败500
+2020-07-22 17:38:34 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是221656615
+2020-07-22 17:38:34 insert.py [line:47] INFO: 索引news_2020-07-22_website, 类别website, 成功500, 失败0
+2020-07-22 17:39:47 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是221665331
+2020-07-22 17:39:50 insert.py [line:47] INFO: 索引news_2020-07-22_website, 类别website, 成功500, 失败0
+2020-07-22 17:45:06 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是221669936
+2020-07-22 17:45:07 insert.py [line:49] INFO: 索引news_2020-07-22_website, 类别website, 成功500, 失败0
+2020-07-23 15:39:16 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是221672906
+2020-07-23 15:39:17 insert.py [line:49] INFO: 索引news_2020-07-23_website, 类别website, 成功500, 失败0
+2020-07-23 15:45:43 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是221675367
+2020-07-23 15:45:46 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-07-23 17:19:19 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是221677712
+2020-07-23 17:19:19 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-07-23 17:25:38 delete.py [line:46] INFO: news_website删除成功, 总共500, 本次删除500
+2020-07-23 17:33:05 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是221679844
+2020-07-23 17:33:06 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-07-23 17:35:31 delete.py [line:46] INFO: news_website删除成功, 总共500, 本次删除500
+2020-08-03 13:42:18 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是221681861
+2020-08-03 13:44:09 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是221681861
+2020-08-03 13:46:35 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223381428
+2020-08-03 13:46:36 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 14:47:18 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223393460
+2020-08-03 14:47:19 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 14:47:31 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223397738
+2020-08-03 14:47:31 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 14:47:41 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223400569
+2020-08-03 14:47:41 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 14:47:53 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223403085
+2020-08-03 14:47:53 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 14:48:07 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223405729
+2020-08-03 14:48:08 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 14:48:17 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223407620
+2020-08-03 14:48:18 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 14:48:34 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223409413
+2020-08-03 14:48:34 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 14:48:47 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223411522
+2020-08-03 14:48:47 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 14:48:58 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223413202
+2020-08-03 14:48:58 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:07:21 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223415581
+2020-08-03 15:07:21 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:12:12 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223417920
+2020-08-03 15:12:12 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:17:28 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223419681
+2020-08-03 15:17:28 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:17:36 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223421818
+2020-08-03 15:17:36 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223421818
+2020-08-03 15:17:36 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:17:36 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:17:41 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223424603
+2020-08-03 15:17:41 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223424603
+2020-08-03 15:17:41 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223424603
+2020-08-03 15:17:41 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:17:41 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:17:41 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:17:56 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223427123
+2020-08-03 15:17:56 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223427123
+2020-08-03 15:17:56 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223427123
+2020-08-03 15:17:56 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223427123
+2020-08-03 15:17:56 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:17:56 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:17:56 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:17:56 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:01 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223430719
+2020-08-03 15:18:01 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223430719
+2020-08-03 15:18:01 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223430719
+2020-08-03 15:18:01 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223430719
+2020-08-03 15:18:01 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223430719
+2020-08-03 15:18:01 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:01 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:01 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:01 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:01 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:06 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223434203
+2020-08-03 15:18:06 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223434203
+2020-08-03 15:18:06 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223434203
+2020-08-03 15:18:06 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223434203
+2020-08-03 15:18:06 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223434203
+2020-08-03 15:18:06 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223434203
+2020-08-03 15:18:06 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:06 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:06 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:06 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:06 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:06 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:30 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223437187
+2020-08-03 15:18:30 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223437187
+2020-08-03 15:18:30 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223437187
+2020-08-03 15:18:30 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223437187
+2020-08-03 15:18:30 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223437187
+2020-08-03 15:18:30 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223437187
+2020-08-03 15:18:30 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223437187
+2020-08-03 15:18:34 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:34 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:34 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:34 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:34 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:34 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:34 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:39 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223440320
+2020-08-03 15:18:39 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223440320
+2020-08-03 15:18:39 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223440320
+2020-08-03 15:18:39 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223440320
+2020-08-03 15:18:39 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223440320
+2020-08-03 15:18:39 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223440320
+2020-08-03 15:18:39 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223440320
+2020-08-03 15:18:39 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223440320
+2020-08-03 15:18:40 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:40 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:40 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:40 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:40 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:40 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:40 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:40 insert.py [line:49] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:18:43 collectdata.py [line:41] INFO: 网站文章, 本次写入203, 下次articleId是223441600
+2020-08-03 15:18:43 collectdata.py [line:41] INFO: 网站文章, 本次写入203, 下次articleId是223441600
+2020-08-03 15:18:43 collectdata.py [line:41] INFO: 网站文章, 本次写入203, 下次articleId是223441600
+2020-08-03 15:18:43 collectdata.py [line:41] INFO: 网站文章, 本次写入203, 下次articleId是223441600
+2020-08-03 15:18:43 collectdata.py [line:41] INFO: 网站文章, 本次写入203, 下次articleId是223441600
+2020-08-03 15:18:43 collectdata.py [line:41] INFO: 网站文章, 本次写入203, 下次articleId是223441600
+2020-08-03 15:18:43 collectdata.py [line:41] INFO: 网站文章, 本次写入203, 下次articleId是223441600
+2020-08-03 15:18:43 collectdata.py [line:41] INFO: 网站文章, 本次写入203, 下次articleId是223441600
+2020-08-03 15:18:43 collectdata.py [line:41] INFO: 网站文章, 本次写入203, 下次articleId是223441600
+2020-08-03 15:18:44 insert.py [line:49] INFO: 索引news_website, 类别website, 成功203, 失败0
+2020-08-03 15:18:44 insert.py [line:49] INFO: 索引news_website, 类别website, 成功203, 失败0
+2020-08-03 15:18:44 insert.py [line:49] INFO: 索引news_website, 类别website, 成功203, 失败0
+2020-08-03 15:18:44 insert.py [line:49] INFO: 索引news_website, 类别website, 成功203, 失败0
+2020-08-03 15:18:44 insert.py [line:49] INFO: 索引news_website, 类别website, 成功203, 失败0
+2020-08-03 15:18:44 insert.py [line:49] INFO: 索引news_website, 类别website, 成功203, 失败0
+2020-08-03 15:18:44 insert.py [line:49] INFO: 索引news_website, 类别website, 成功203, 失败0
+2020-08-03 15:18:44 insert.py [line:49] INFO: 索引news_website, 类别website, 成功203, 失败0
+2020-08-03 15:18:44 insert.py [line:49] INFO: 索引news_website, 类别website, 成功203, 失败0
+2020-08-03 15:18:45 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223441650
+2020-08-03 15:18:45 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223441650
+2020-08-03 15:18:45 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223441650
+2020-08-03 15:18:45 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223441650
+2020-08-03 15:18:45 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223441650
+2020-08-03 15:18:45 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223441650
+2020-08-03 15:18:45 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223441650
+2020-08-03 15:18:45 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223441650
+2020-08-03 15:18:45 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223441650
+2020-08-03 15:18:45 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223441650
+2020-08-03 15:18:45 insert.py [line:42] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:18:45 insert.py [line:42] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:18:45 insert.py [line:42] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:18:45 insert.py [line:42] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:18:45 insert.py [line:42] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:18:45 insert.py [line:42] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:18:45 insert.py [line:42] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:18:45 insert.py [line:42] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:18:45 insert.py [line:42] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:18:45 insert.py [line:42] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:53:50 collectdata.py [line:41] INFO: 网站文章, 本次写入500, 下次articleId是223443997
+2020-08-03 15:53:50 insert.py [line:50] INFO: 索引news_website, 类别website, 成功500, 失败0
+2020-08-03 15:54:30 collectdata.py [line:41] INFO: 网站文章, 本次写入460, 下次articleId是223446125
+2020-08-03 15:54:30 insert.py [line:51] INFO: 索引news_website, 类别website, 成功460, 失败0
+2020-08-03 15:54:32 collectdata.py [line:41] INFO: 网站文章, 本次写入1, 下次articleId是223446127
+2020-08-03 15:54:32 collectdata.py [line:41] INFO: 网站文章, 本次写入1, 下次articleId是223446127
+2020-08-03 15:54:32 insert.py [line:51] INFO: 索引news_website, 类别website, 成功1, 失败0
+2020-08-03 15:54:32 insert.py [line:51] INFO: 索引news_website, 类别website, 成功1, 失败0
+2020-08-03 15:54:33 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446127
+2020-08-03 15:54:33 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446127
+2020-08-03 15:54:33 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446127
+2020-08-03 15:54:33 insert.py [line:44] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:54:33 insert.py [line:44] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:54:33 insert.py [line:44] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:55:07 collectdata.py [line:41] INFO: 网站文章, 本次写入1, 下次articleId是223446129
+2020-08-03 15:55:07 insert.py [line:51] INFO: 索引news_website, 类别website, 成功1, 失败0
+2020-08-03 15:55:08 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446129
+2020-08-03 15:55:08 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446129
+2020-08-03 15:55:08 insert.py [line:44] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:55:08 insert.py [line:44] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:57:54 collectdata.py [line:41] INFO: 网站文章, 本次写入9, 下次articleId是223446224
+2020-08-03 15:57:55 insert.py [line:52] INFO: 索引news_website, 类别website, 成功9, 失败0
+2020-08-03 15:57:56 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446241
+2020-08-03 15:57:56 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446241
+2020-08-03 15:57:56 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:57:56 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:58:41 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446293
+2020-08-03 15:58:41 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 15:58:43 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446293
+2020-08-03 15:58:43 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446293
+2020-08-03 15:58:43 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 15:58:43 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:00:51 collectdata.py [line:41] INFO: 网站文章, 本次写入11, 下次articleId是223446472
+2020-08-03 16:00:51 insert.py [line:52] INFO: 索引news_website, 类别website, 成功11, 失败0
+2020-08-03 16:00:52 collectdata.py [line:41] INFO: 网站文章, 本次写入1, 下次articleId是223446513
+2020-08-03 16:00:52 collectdata.py [line:41] INFO: 网站文章, 本次写入1, 下次articleId是223446513
+2020-08-03 16:00:52 insert.py [line:52] INFO: 索引news_website, 类别website, 成功1, 失败0
+2020-08-03 16:00:52 insert.py [line:52] INFO: 索引news_website, 类别website, 成功1, 失败0
+2020-08-03 16:00:54 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446519
+2020-08-03 16:00:54 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446519
+2020-08-03 16:00:54 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446519
+2020-08-03 16:00:54 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:00:54 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:00:54 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:00:56 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446530
+2020-08-03 16:00:56 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446530
+2020-08-03 16:00:56 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446530
+2020-08-03 16:00:56 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446530
+2020-08-03 16:00:56 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:00:56 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:00:56 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:00:56 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:00:58 collectdata.py [line:41] INFO: 网站文章, 本次写入16, 下次articleId是223446555
+2020-08-03 16:00:58 collectdata.py [line:41] INFO: 网站文章, 本次写入16, 下次articleId是223446555
+2020-08-03 16:00:58 collectdata.py [line:41] INFO: 网站文章, 本次写入16, 下次articleId是223446555
+2020-08-03 16:00:58 collectdata.py [line:41] INFO: 网站文章, 本次写入16, 下次articleId是223446555
+2020-08-03 16:00:58 collectdata.py [line:41] INFO: 网站文章, 本次写入16, 下次articleId是223446555
+2020-08-03 16:00:58 insert.py [line:52] INFO: 索引news_website, 类别website, 成功16, 失败0
+2020-08-03 16:00:58 insert.py [line:52] INFO: 索引news_website, 类别website, 成功16, 失败0
+2020-08-03 16:00:58 insert.py [line:52] INFO: 索引news_website, 类别website, 成功16, 失败0
+2020-08-03 16:00:58 insert.py [line:52] INFO: 索引news_website, 类别website, 成功16, 失败0
+2020-08-03 16:00:58 insert.py [line:52] INFO: 索引news_website, 类别website, 成功16, 失败0
+2020-08-03 16:01:01 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446567
+2020-08-03 16:01:01 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446567
+2020-08-03 16:01:01 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446567
+2020-08-03 16:01:01 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446567
+2020-08-03 16:01:01 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446567
+2020-08-03 16:01:01 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446567
+2020-08-03 16:01:01 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:01 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:01 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:01 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:01 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:01 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:03 collectdata.py [line:41] INFO: 网站文章, 本次写入12, 下次articleId是223446583
+2020-08-03 16:01:03 collectdata.py [line:41] INFO: 网站文章, 本次写入12, 下次articleId是223446583
+2020-08-03 16:01:03 collectdata.py [line:41] INFO: 网站文章, 本次写入12, 下次articleId是223446583
+2020-08-03 16:01:03 collectdata.py [line:41] INFO: 网站文章, 本次写入12, 下次articleId是223446583
+2020-08-03 16:01:03 collectdata.py [line:41] INFO: 网站文章, 本次写入12, 下次articleId是223446583
+2020-08-03 16:01:03 collectdata.py [line:41] INFO: 网站文章, 本次写入12, 下次articleId是223446583
+2020-08-03 16:01:03 collectdata.py [line:41] INFO: 网站文章, 本次写入12, 下次articleId是223446583
+2020-08-03 16:01:03 insert.py [line:52] INFO: 索引news_website, 类别website, 成功12, 失败0
+2020-08-03 16:01:03 insert.py [line:52] INFO: 索引news_website, 类别website, 成功12, 失败0
+2020-08-03 16:01:03 insert.py [line:52] INFO: 索引news_website, 类别website, 成功12, 失败0
+2020-08-03 16:01:03 insert.py [line:52] INFO: 索引news_website, 类别website, 成功12, 失败0
+2020-08-03 16:01:03 insert.py [line:52] INFO: 索引news_website, 类别website, 成功12, 失败0
+2020-08-03 16:01:03 insert.py [line:52] INFO: 索引news_website, 类别website, 成功12, 失败0
+2020-08-03 16:01:03 insert.py [line:52] INFO: 索引news_website, 类别website, 成功12, 失败0
+2020-08-03 16:01:05 collectdata.py [line:41] INFO: 网站文章, 本次写入6, 下次articleId是223446592
+2020-08-03 16:01:05 collectdata.py [line:41] INFO: 网站文章, 本次写入6, 下次articleId是223446592
+2020-08-03 16:01:05 collectdata.py [line:41] INFO: 网站文章, 本次写入6, 下次articleId是223446592
+2020-08-03 16:01:05 collectdata.py [line:41] INFO: 网站文章, 本次写入6, 下次articleId是223446592
+2020-08-03 16:01:05 collectdata.py [line:41] INFO: 网站文章, 本次写入6, 下次articleId是223446592
+2020-08-03 16:01:05 collectdata.py [line:41] INFO: 网站文章, 本次写入6, 下次articleId是223446592
+2020-08-03 16:01:05 collectdata.py [line:41] INFO: 网站文章, 本次写入6, 下次articleId是223446592
+2020-08-03 16:01:05 collectdata.py [line:41] INFO: 网站文章, 本次写入6, 下次articleId是223446592
+2020-08-03 16:01:05 insert.py [line:52] INFO: 索引news_website, 类别website, 成功6, 失败0
+2020-08-03 16:01:05 insert.py [line:52] INFO: 索引news_website, 类别website, 成功6, 失败0
+2020-08-03 16:01:05 insert.py [line:52] INFO: 索引news_website, 类别website, 成功6, 失败0
+2020-08-03 16:01:05 insert.py [line:52] INFO: 索引news_website, 类别website, 成功6, 失败0
+2020-08-03 16:01:05 insert.py [line:52] INFO: 索引news_website, 类别website, 成功6, 失败0
+2020-08-03 16:01:05 insert.py [line:52] INFO: 索引news_website, 类别website, 成功6, 失败0
+2020-08-03 16:01:05 insert.py [line:52] INFO: 索引news_website, 类别website, 成功6, 失败0
+2020-08-03 16:01:05 insert.py [line:52] INFO: 索引news_website, 类别website, 成功6, 失败0
+2020-08-03 16:01:06 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446596
+2020-08-03 16:01:06 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446596
+2020-08-03 16:01:06 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446596
+2020-08-03 16:01:06 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446596
+2020-08-03 16:01:06 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446596
+2020-08-03 16:01:06 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446596
+2020-08-03 16:01:06 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446596
+2020-08-03 16:01:06 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446596
+2020-08-03 16:01:06 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446596
+2020-08-03 16:01:06 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:06 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:06 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:06 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:06 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:06 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:06 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:06 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:06 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:08 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446605
+2020-08-03 16:01:08 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446605
+2020-08-03 16:01:08 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446605
+2020-08-03 16:01:08 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446605
+2020-08-03 16:01:08 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446605
+2020-08-03 16:01:08 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446605
+2020-08-03 16:01:08 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446605
+2020-08-03 16:01:08 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446605
+2020-08-03 16:01:08 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446605
+2020-08-03 16:01:08 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446605
+2020-08-03 16:01:08 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:08 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:08 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:08 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:08 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:08 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:08 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:08 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:08 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:08 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446611
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:09 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446616
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:11 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446633
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:12 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 collectdata.py [line:41] INFO: 网站文章, 本次写入4, 下次articleId是223446642
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:14 insert.py [line:52] INFO: 索引news_website, 类别website, 成功4, 失败0
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 collectdata.py [line:41] INFO: 网站文章, 本次写入2, 下次articleId是223446644
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:15 insert.py [line:52] INFO: 索引news_website, 类别website, 成功2, 失败0
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 collectdata.py [line:41] INFO: 网站文章, 本次写入5, 下次articleId是223446652
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:17 insert.py [line:52] INFO: 索引news_website, 类别website, 成功5, 失败0
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 collectdata.py [line:41] INFO: 网站文章, 本次写入3, 下次articleId是223446663
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:18 insert.py [line:52] INFO: 索引news_website, 类别website, 成功3, 失败0
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 collectdata.py [line:41] INFO: 网站文章, 本次写入0, 下次articleId是223446663
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:01:19 insert.py [line:45] INFO: 索引news_website, 类别website, 没有更新
+2020-08-03 16:05:58 delete.py [line:47] INFO: 索引news_website删除成功, 总共0, 本次删除0

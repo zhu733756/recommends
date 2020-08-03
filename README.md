@@ -11,8 +11,14 @@
         -  `spiders/__init__.py`
 
 - 运行入口
-    - `python search_host.py  baidu / weixin / weibo【三选一】`
+    - `python search_host.py  baidu/weixin/weibo【三选一】`
 
 #### 分词部分
 
-- 待完善
+- es
+    
+
+- todo
+    - 安装ik分词器
+    - 知乎爬虫
+

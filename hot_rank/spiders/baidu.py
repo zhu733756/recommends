@@ -2,7 +2,7 @@
 @Description: 
 @Author: zhu733756
 @Date: 2020-07-16 16:53:18
-@LastEditTime: 2020-07-17 17:46:05
+@LastEditTime: 2020-08-03 14:38:43
 @LastEditors: zhu733756
 '''
 # -*- coding: utf-8 -*-
@@ -33,6 +33,8 @@ class BaiduSpider(scrapy.Spider):
         data = json.loads(hotsearch_data)
         hotsearch = data.get('hotsearch')
         for index, i in enumerate(hotsearch):
+            if not i:
+                continue
             item = HotRankItem()
             item['title'] = i.get('pure_title')
             item['url'] = unquote(i.get('linkurl', ''))
@@ -42,4 +44,13 @@ class BaiduSpider(scrapy.Spider):
             hotTags = i.get('hotTags')
             item['tags'] = self.hotTags.get(hotTags, '')
             item['create_date'] = str(datetime.now())
-            yield item
+            if item:
+                yield item
+
+
+if __name__ == "__main__":
+    from scrapy.utils.project import get_project_settings
+    from scrapy.crawler import CrawlerProcess
+    crawler = CrawlerProcess(get_project_settings())
+    crawler.crawl(BaiduSpider)
+    crawler.start()

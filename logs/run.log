@@ -1,0 +1,24 @@
+2020-08-03 16:00:50 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'newspaper'}, 调用第1次
+2020-08-03 16:00:51 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第2次
+2020-08-03 16:00:52 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第3次
+2020-08-03 16:00:54 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第4次
+2020-08-03 16:00:56 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第5次
+2020-08-03 16:00:58 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第6次
+2020-08-03 16:01:01 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第7次
+2020-08-03 16:01:03 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第8次
+2020-08-03 16:01:05 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第9次
+2020-08-03 16:01:06 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第10次
+2020-08-03 16:01:08 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第11次
+2020-08-03 16:01:09 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第12次
+2020-08-03 16:01:11 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第13次
+2020-08-03 16:01:12 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第14次
+2020-08-03 16:01:14 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第15次
+2020-08-03 16:01:15 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第16次
+2020-08-03 16:01:17 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第17次
+2020-08-03 16:01:18 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第18次
+2020-08-03 16:01:19 wrapper.py [line:23] INFO: 函数名bulk_insert,参数{'tp': 'website'}, 调用第19次
+2020-08-03 16:01:19 wrapper.py [line:36] INFO: 本次调用函数名bulk_in_cricle, 花费29.635037422180176s,
+2020-08-03 16:05:58 wrapper.py [line:28] INFO: 调用函数名bulk_delete开始
+2020-08-03 16:05:58 wrapper.py [line:22] INFO: 函数名delete,参数{}, 调用第1次
+2020-08-03 16:05:58 wrapper.py [line:22] INFO: 函数名delete,参数{}, 调用第2次
+2020-08-03 16:05:58 wrapper.py [line:35] INFO: 本次调用函数名bulk_delete, 花费0.2171630859375s
